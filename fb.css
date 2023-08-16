@@ -1,0 +1,92 @@
+.header
+{
+   width:100%;
+   height:100px;
+   background-color: rgb(94, 94, 249); 
+}
+body{
+    margin:0px
+}
+.leftsection
+{
+    width:50%;
+    
+    padding-top: 3px;
+        float: left
+    
+}
+.rightsection
+{
+    width:50%;
+    float: left
+}
+.left
+{
+    color:aliceblue;
+    font-size: 50px;
+    text-decoration: none
+}
+.fbook
+{    text-decoration: none;
+    color:aliceblue;
+    font-size: 50px;
+    padding-left: 200px;
+
+}
+.right
+{
+color: aliceblue;
+
+}
+.subbut
+{
+    background-color: rgb(126, 126, 232);
+    color: aliceblue;
+    cursor: pointer;
+    height:20px;
+    border-color: rgb(53, 53, 243);
+}
+.forgotten
+{
+    font-size: 15px;
+    text-decoration: none;
+
+}
+.dialogue
+{
+    color:rgb(26, 18, 143);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 100px;
+}
+.mainbody
+{
+    background-color: rgb(12, 210, 75)
+    width: 100%;
+    height: 500px
+}
+
+.leftpart
+{
+    width:50%;
+    height: 500px;
+float: left
+}
+.rightpart
+{
+    width:50%;
+    height: 500px;
+float: left;
+padding-top: 20px
+}
+.rightp
+{
+    width:100px;
+    height:30px;
+    border-radius: 20px;
+    border-color: brown
+}
+.gd 
+{
+    padding-left: 200px;
+
+}
